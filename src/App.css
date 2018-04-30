@@ -1,0 +1,27 @@
+body {
+  background: whitesmoke;
+  font-family: Helvetica, sans-serif;
+  min-height: 100%;
+}
+
+h1 {
+  color: steelblue;
+  font-size: 50px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  float: left;
+  list-style-type: none;
+  margin: auto;
+  padding: 5px;
+}
+
+nav {
+  border-bottom: 2px solid black;
+  overflow: hidden;
+}
